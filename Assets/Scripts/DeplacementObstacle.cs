@@ -3,7 +3,7 @@ using UnityEngine;
 public class NewMonoBehaviourScript : MonoBehaviour
 {
 
-    public float vitesse = 0.01f;
+    public float vitesse = 0.03f;
     public float limiteHaut = 10f;
     public float limiteBas = -10f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created

@@ -3,7 +3,7 @@ using UnityEngine;
 public class ContreDirection : MonoBehaviour
 {
 
-    public float vitesse = 0.02f;
+    public float vitesse = 0.06f;
     public float limiteHaut = 10f;
     public float limiteBas = -10f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
